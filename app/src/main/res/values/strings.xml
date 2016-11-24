@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meizi</string>
+    <string name="action_about">关于本喵</string>
+    <string name="action_save">Save</string>
+    <string name="action_share">Share</string>
+    <string name="title_picture">Detail</string>
+    <string name="version_desc">Meizi\n1.0</string>
+    <string name="error_desc">出错了喵/(ㄒoㄒ)/~~</string>
+    <string name="load_more">玩命加载...</string>
+    <string name="no_more">到达世界尽头了喵（¯﹃¯）</string>
+</resources>
